@@ -13,3 +13,5 @@
 ## 2025-10-28
 ### Changed
 - Remove unintended token `XXXXXXX` in `data/a1949596.txt`. See #2.
+### Changed
+- Restore lowercase words in `data/a1949596.txt`. See #3.
