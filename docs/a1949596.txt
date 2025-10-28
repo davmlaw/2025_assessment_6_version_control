@@ -9,3 +9,6 @@
 ### Added
 
 - Initial commit
+
+### Added
+CHANGED: Remove XXXXXXX from data/a1949596.txt (fixes #2)
