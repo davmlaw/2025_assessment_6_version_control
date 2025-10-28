@@ -10,5 +10,6 @@
 
 - Initial commit
 
-### Added
-CHANGED: Remove XXXXXXX from data/a1949596.txt (fixes #2)
+## 2025-10-28
+### Changed
+- Remove unintended token `XXXXXXX` in `data/a1949596.txt`. See #2.
