@@ -1,7 +1,10 @@
 ## [unreleased]
 
+### Changed
+- Fixed unintended UPPERCASE text in line 1 of data/a1887315.txt (see issue #28)
+
 ### Changed 
-- Fixed high severity `XXXXXXX` placeholder text in `data/a1887315.txt` ([issue link](https://github.com/your-username/2025_assessment_6_version_control/issues/NUMBER))
+- Fixed high severity `XXXXXXX` placeholder text in data/a1887315.txt (see issue #27)
 
 ### Added
 
