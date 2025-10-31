@@ -15,3 +15,6 @@
 ##CHANGED
 
 Removed 'XXXXXXX' high-severity bug issue from data/a1852174.txt. See issue #16 for more information.
+
+## CHANGED UPPERCASE
+Changed UPPERCASE words low-severity bug issue from data/a1852174. See issue #17 for more information.
