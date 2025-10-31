@@ -9,6 +9,9 @@
 - Remove 'XXXXXXX' from `data/a1919050.txt`
 (see [#19](https://github.com/davmlaw/2025_assessment_6_version_control/issues/19))
 
+- Change capitalization to correct form from `data/a1919050.txt`                                                                                                                                                (see [#19](https://github.com/davmlaw/2025_assessment_6_version_control/issues/19))  
+(see [#20](https://github.com/davmlaw/2025_assessment_6_version_control/issues/20))  
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
