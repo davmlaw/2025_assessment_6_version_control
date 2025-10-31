@@ -4,7 +4,7 @@
 ### Changed
 
 - Fixed high-severity XXXXXXX placeholders in [data/a1872943.txt](https://github.com/davmlaw/2025_assessment_6_version_control/issues/12)
-- Corrected low-severity UPPERCASE words (LOT → lot, BUY → buy) in data/a1872943.txt
+- Corrected low-severity UPPERCASE words in data/a1872943.txt (refs #13)
 
 
 
