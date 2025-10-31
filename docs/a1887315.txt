@@ -1,5 +1,8 @@
 ## [unreleased]
 
+### Changed 
+- Fixed high severity `XXXXXXX` placeholder text in `data/a1887315.txt` ([issue link](https://github.com/your-username/2025_assessment_6_version_control/issues/NUMBER))
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
