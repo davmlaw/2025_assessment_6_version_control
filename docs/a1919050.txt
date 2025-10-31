@@ -4,6 +4,11 @@
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
 
+### CHANGED
+
+- Remove 'XXXXXXX' from `data/a1919050.txt`
+(see [#19](https://github.com/davmlaw/2025_assessment_6_version_control/issues/19))
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
