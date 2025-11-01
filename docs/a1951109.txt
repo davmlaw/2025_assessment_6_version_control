@@ -10,4 +10,6 @@
 
 - Initial commit
 
-### Changed  - [Remove placeholder `XXXXXXX` from data/a1951109.txt](https://github.com/davmlaw/2025_assessment_6_version_control/issues/30) – fixed high-severity text corruption; restored expected content.
+### Changed  
+- [Remove placeholder `XXXXXXX` from data/a1951109.txt](https://github.com/davmlaw/2025_assessment_6_version_control/issues/30) – fixed high-severity text corruption; restored expected content.
+- [Correct unintended uppercase words in data/a1951109.txt](https://github.com/davmlaw/2025_assessment_6_version_control/issues/31) – fixed low-severity formatting issue to restore consistent lowercase text.
