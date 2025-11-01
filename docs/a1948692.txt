@@ -1,5 +1,6 @@
 # CHANGELOG
 
+Fixed low severity bug, uppercase words as addressed in the issue raised #34
 Fixed the high severity issue, as mentioned in the issue raised #33
 
 
