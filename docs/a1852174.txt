@@ -9,3 +9,10 @@
 ### Added
 
 - Initial commit
+
+# ChangeLog
+
+##CHANGED 'XXXXXXX'
+
+Removed 'XXXXXXX' high-severity bug issue from data/a1852174.txt. See issue #16 for more information.
+
