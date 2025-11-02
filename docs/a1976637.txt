@@ -1,5 +1,9 @@
 ## [unreleased]
 
+### Changed
+
+- Corrected UPPERCASE words in line 1 from data/a1976637.txt fix low severity issue #42
+
 ### Changed / Removed
 
 - Removed XXXXXXX in line 3 from data/a1976637.txt fix high severity issue #41
