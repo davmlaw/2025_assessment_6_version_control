@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+# Added
+- Fix for issue #44. Removed 'XXXXXXX' from line 3.
+
