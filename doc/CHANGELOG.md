@@ -8,3 +8,6 @@ The format is based on Keep a Changelog (https://keepachangelog.com/en/1.1.0/).
 
 ## Changed
 - Removed high-severity placeholder XXXXXXX from data/a1991182.txt (fixes #55)
+
+## Changed
+- Corrected low-severity UPPERCASE words in data/a1991182.txt (refs #56)
