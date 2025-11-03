@@ -1,6 +1,9 @@
 ## [unreleased]
 
 ##Changed
+- Change UPPERCASE bugs from 'data/a1917758.txt' to fix low severity issue #59 (https://github.com/davmlaw/2025_assessment_6_version_control/issues/58)   
+
+##Changed
 - Remove XXXXXXX bugs from 'data/a1917758.txt' to fix high severity issue #58 (https://github.com/davmlaw/2025_assessment_6_version_control/issues/58)
 
 ### Added
