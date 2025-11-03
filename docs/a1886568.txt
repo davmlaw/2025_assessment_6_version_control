@@ -8,6 +8,10 @@
 
 - [Fixed high severity bug 'XXXXXXX'](https://github.com/davmlaw/2025_assessment_6_version_control/issues/49) - Removed 'XXXXXXX' from lines 5 and 7
 
+### Changed
+
+- [Fixed low severity bug UPPERCASE](https://github.com/davmlaw/2025_assessment_6_version_control/issues/51) - Changed UPPERCASE to lowercase on line 5
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
