@@ -13,3 +13,5 @@
 # Added
 - Fix for issue #44. Removed 'XXXXXXX' from line 3.
 
+# Added
+- Fix for issue #50. Replaced UPPERCASE words with lowercase in line 3 and line 11.
