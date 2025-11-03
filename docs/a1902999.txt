@@ -1,6 +1,9 @@
 ## [unreleased]
 
 ### Changed 
+- Fixed UPPERCASE bugs from 'data/a1902999.txt' to fix issue #36 (https://github.com/davmlaw/2025_assessment_6_version_control/issues/36)
+
+### Changed 
 - Removed XXXXXXX bugs from 'data/a1902999.txt' to fix issue #35 (https://github.com/davmlaw/2025_assessment_6_version_control/issues/35)
 
 ### Added
