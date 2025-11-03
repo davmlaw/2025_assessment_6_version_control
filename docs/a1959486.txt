@@ -6,6 +6,7 @@
 
 ## Changed
 - [Removed high-severity "XXXXXXX" artifacts from data/a1959486.txt]. Fixes #47
+- [Corrected capitalization in data/a1959486.txt]. Fixes #48
 
 ## [0.1.1] - 2025-10-26
 
