@@ -1,8 +1,8 @@
 ## [unreleased]
 
 ## [CHANGED]
-- Removed high severity `XXXXXXX` tokens from `data/a1878445.txt` to resolve [#75] (https://github.com/davmlaw/2025_assessment_6_version_control/issues/75)
-
+- Removed high severity `XXXXXXX`bug from `data/a1878445.txt` to resolve [#75] (https://github.com/davmlaw/2025_assessment_6_version_control/issues/75)
+- Fixed low severity UPPERCASE issue in data/a1878445.txt to resolve [#76]
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
