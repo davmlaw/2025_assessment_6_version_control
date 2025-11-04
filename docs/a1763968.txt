@@ -4,6 +4,9 @@
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
 
+### Changed
+- Fixed high-severity XXXXXXX bug in data/incentivize plug-and-play synergies [Issue #72]
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
