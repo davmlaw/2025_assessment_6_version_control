@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+### CHANGED
+- Fixed high severity XXXXXX insertion bug in data/a1897497.txt  mentioned in issue #64
+- Fixed low severity UPPERCASE bug in data/a1897497.txt  mentioned in issue #70
