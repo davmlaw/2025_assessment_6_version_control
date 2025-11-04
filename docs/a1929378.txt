@@ -14,3 +14,8 @@
 
 - Fix High Severity issue (XXXXXXX) from the text file, whilst retaining 1 space
   between words after removing the issue
+
+### Changed 
+
+- Fix Low Severity issue (UPPERCASE) from the text file, whilst retaining 1 space
+  between words after removing the issue (only in main branch)
