@@ -14,4 +14,8 @@
 
 - Fixed high severity issue of XXXXXXX in data/a1879522.txt through removal
 
+### Fixed
+
+- Fixed Low severity issue of UPPERCASE words in data/a1879522.txt through converted
+
 ## [0.1.0] - 2025-11-04
