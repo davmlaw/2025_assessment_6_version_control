@@ -13,3 +13,7 @@
 ### Changed 
 
 - CHANGED: Removed XXXXXXX bug issue (#86)(https://github.com/davmlaw/2025_assessment_6_version_control/issues/86)
+
+### Changed
+
+- CHANGED: Corrected UPPERCASE bug issue (#87)(https://github.com/davmlaw/2025_assessment_6_version_control/issues/87)
