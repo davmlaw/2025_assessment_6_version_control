@@ -9,3 +9,6 @@
 ### Added
 
 - Initial commit
+
+### Changed
+- Removed high severity bug from file data/a1822446.txt (XXXXXXX)
