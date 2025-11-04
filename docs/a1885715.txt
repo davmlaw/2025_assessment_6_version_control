@@ -1,6 +1,9 @@
 ## [unreleased]
 
 ### Changed
+- [File data/a1885715.txt contains UPPERCASE words (low severity)](https://github.com/davmlaw/2025_assessment_6_version_control/issues/66#issue-3584082860) - Fixed file data/a1885715.txt by replacing UPPERCASE words with lowercase
+
+### Changed
 - [file data/a1885715.txt contains 'XXXXXXX' (High severity)](https://github.com/davmlaw/2025_assessment_6_version_control/issues/65#issue-3584065486) - fixed file data/a1885715.txt by removing XXXXXXX bugs
 
 
