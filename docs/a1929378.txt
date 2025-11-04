@@ -9,3 +9,8 @@
 ### Added
 
 - Initial commit
+
+### Changed 
+
+- Fix High Severity issue (XXXXXXX) from the text file, whilst retaining 1 space
+  between words after removing the issue
