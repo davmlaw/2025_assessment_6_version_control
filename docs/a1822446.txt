@@ -9,3 +9,8 @@
 ### Added
 
 - Initial commit
+
+### Changed
+- Removed high severity bug from file data/a1822446.txt (XXXXXXX)
+
+- Amended low severity bug in file data/a1822446.txt (uppercase words)
