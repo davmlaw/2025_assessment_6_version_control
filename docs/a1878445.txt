@@ -1,5 +1,6 @@
 ## [unreleased]
 
+## [CHANGED]
 - Removed high severity `XXXXXXX` tokens from `data/a1878445.txt` to resolve [#75] (https://github.com/davmlaw/2025_assessment_6_version_control/issues/75)
 
 ### Added
