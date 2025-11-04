@@ -1,5 +1,9 @@
 ## [unreleased]
 
+### Changed
+
+- Fixed high severity XXXXXXX bug in data/a1864358.txt. See Issue #62
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
