@@ -6,7 +6,7 @@
 
 ### Changed
 - Fixed high-severity XXXXXXX bug in data/incentivize plug-and-play synergies [Issue #72]
-
+- Fixed low-severity lowercase → UPPERCASE bug in data/incentivize plug-and-play synergies (Issue #73)
 ## [0.1.1] - 2025-10-26
 
 ### Added
