@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+# CHANGED:
+
+- Fixed high severity XXXXXXX placeholders in data/a1957056.txt (#100).
