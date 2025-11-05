@@ -2,6 +2,10 @@
 
 ### Changed
 
+- Fixed low severity UPERCASE bug in data/a1864358.txt. See Issue $63
+
+### Changed
+
 - Fixed high severity XXXXXXX bug in data/a1864358.txt. See Issue #62
 
 ### Added
