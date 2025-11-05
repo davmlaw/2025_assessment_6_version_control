@@ -9,3 +9,8 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- Removed 'XXXXXXX' high severity bug issue in line 1
+- Replaced low severity bug issue UPPERCASE ot lowercase from lines 1 and 5
