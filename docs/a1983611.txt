@@ -13,3 +13,7 @@
 ### Changed
 
 - Fixed high severity XXXXXXX bug in data/a1983611.txt (see issue #106)
+
+###Changed
+
+- Fixed low severity UPPERCASE bug in data/a1983611.txt(see issue #109)
