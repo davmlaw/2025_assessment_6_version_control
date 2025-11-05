@@ -9,3 +9,11 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+-fixed high severity XXXXXXX issue in lines 7, 9
+
+### Changed
+
+-fixed low severity capitalisation issue in lines 7, 9, 11
