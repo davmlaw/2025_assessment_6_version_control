@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- Removed 'XXXXXXX' high severity bug issue from data/a1793955.txt
