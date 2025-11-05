@@ -12,4 +12,8 @@
 
 # CHANGED:
 
-- Fixed high severity XXXXXXX placeholders in data/a1957056.txt (#100).
+-CHANGED: Fixed high severity XXXXXXX placeholders in data/a1957056.txt (#100).
+
+#CHANGED
+
+- CHANGED: Fixed low severity UPPERCASE bug (BETTER, REALIZE, ELECTION) in data/a1957056.txt (#103).
