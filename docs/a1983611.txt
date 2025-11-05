@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- Fixed high severity XXXXXXX bug in data/a1983611.txt (see issue #106)
