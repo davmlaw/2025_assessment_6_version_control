@@ -9,3 +9,11 @@
 ### Added
 
 - Initial commit
+ 
+### CHANGED
+
+- Fixed high severity issue XXXXXXX in data/a1983144.txt https://github.com/davmlaw/2025_assessment_6_version_control/issues/105
+
+### CHANGED
+
+- Fixed low severity issue UPPERCASE in data/a1983144.txt https://github.com/davmlaw/2025_assessment_6_version_control/issues/107
