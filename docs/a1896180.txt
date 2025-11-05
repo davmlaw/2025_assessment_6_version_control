@@ -9,3 +9,6 @@
 ### Added
 
 - Initial commit
+
+### Changed
+- [Fix XXXXXXX issues in line 5](https://github.com/davmlaw/2025_assessment_6_version_control/issues/113) - delete the bug leaving 1 space between each word.
