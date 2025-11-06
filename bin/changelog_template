@@ -9,9 +9,4 @@
 ### Added
 
 - Initial commit
-## CHANGED — 2025-11-06
-- Remove injected “XXXXXXX” tokens from data/a1836916.txt and normalize single spaces.
-  See issue https://github.com/davmlaw/2025_assessment_6_version_control/issues/<HIGH-ISSUE>.
 
-- Restore lowercase for HOTEL, ONCE, MAJORITY in data/a1836916.txt.
-  See issue https://github.com/davmlaw/2025_assessment_6_version_control/issues/<LOW-ISSUE>.
