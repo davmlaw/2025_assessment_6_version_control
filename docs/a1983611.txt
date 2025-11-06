@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+###Changed
+
+- Fixed high severity XXXXXXX bug (see issue #128)
