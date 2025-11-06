@@ -13,4 +13,4 @@
 ### Changed
 
 - Removed 'XXXXXXX' from data/a1849952.txt
-
+- Replaced 'UPPERCASE' to 'lowercase' for file data/a1849952.txt
