@@ -3,4 +3,6 @@ All necessary changes required for this assessment will be denoted in this file
 
 ##[Unreleased]
 ### Changed
- - Fixed unwanted XXXXXXX placeholder in data/a1937503.txt
+ - Fixed unwanted XXXXXXX placeholder in data/a1937503.txt(High severity issue)
+ - Changed the casing of the words OPPORTUNITY,POOR, BLOOD in line 3 into lowercase(Low severity issue)
+ 
