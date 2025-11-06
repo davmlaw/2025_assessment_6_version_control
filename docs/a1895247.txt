@@ -3,4 +3,4 @@
 ### Changed
 - Remove high-severity `XXXXXXX` insertions from `data/a1895247.txt`. See #143.
 - Fix incorrect UPPERCASE word in `data/a1895247.txt`. See #144.
-docs(a1895247): add changelog entry for low-severity issue #144
+
