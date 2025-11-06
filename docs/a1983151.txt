@@ -6,6 +6,7 @@
 
 ### Changed
 - Fix high severity XXXXXXX issue, see #[issue_1_152].
+- Fix low severity UPPERCASE issue, see #[issue_2_153].
 
 ## [0.1.1] - 2025-10-26
 
