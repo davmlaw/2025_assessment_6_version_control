@@ -11,3 +11,6 @@
 - Initial commit
 
 ###Changed - fix for high severity issue (XXXXX) (issue #129)
+
+###Changed - fix for low severity issue (UPPERCASE) (issue ##130)
+-changed ENOUGH to enough, PERFORMANCE to performance and POPULATION to population
