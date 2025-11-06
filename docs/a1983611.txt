@@ -13,3 +13,7 @@
 ###Changed
 
 - Fixed high severity XXXXXXX bug (see issue #128)
+
+###Changed
+
+- Fixed low severity UPPERCASE bug (see issue #127)
