@@ -6,6 +6,6 @@
 
 ## [0.1.1] - 2025-10-26
 
-### Added
+### Changed
 
-- Initial commit
+- Removed the XXXXXXX insertion from data/a1933380.txt (high severity issue fixed). See issue # 134
