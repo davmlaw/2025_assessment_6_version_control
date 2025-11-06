@@ -6,6 +6,8 @@
 
 ## [0.1.1] - 2025-10-26
 
-### Added
+### Changed
 
-- Initial commit
+- Removed the XXXXXXX insertion from data/a1933380.txt (high severity issue fixed). See issue # 134
+- Corrected the low severity issue from UPPERCASE text back to the lowercase. See issue # 134
+- Removed a missed XXXXXXX insertion from data/a1933380.txt. See issue # 134
