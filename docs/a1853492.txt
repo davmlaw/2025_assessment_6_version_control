@@ -1,3 +1,11 @@
+### Changed
+
+- Corrected unintended capitalisation in data/a1853492.txt (fixes issue #163)
+
+### Changed
+
+- Removed XXXXXXX sequences from data/a1853492.txt (fixes issue #162) 
+
 ## [unreleased]
 
 ### Added
