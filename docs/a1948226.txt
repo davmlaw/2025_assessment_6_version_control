@@ -8,6 +8,11 @@
 
 - [Removed unintended XXXXXXX token from data/a1948226.txt](https://github.com/greedy-hub/2025_assessment_6_version_control/issues/186) - fixed high severity issue and ensured correct spacing between words.
 
+
+### Changed  
+
+- [Normalized unintended uppercase words (SENSE, MIDDLE, POPULAR) in data/a1948226.txt](https://github.com/greedy-hub/2025_assessment_6_version_control/issues/191) - corrected low severity formatting errors for consistency.
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
