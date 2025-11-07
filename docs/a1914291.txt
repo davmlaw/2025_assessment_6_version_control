@@ -9,3 +9,6 @@
 ### Added
 
 - Initial commit
+
+#removed the XXXXXXX in lines 1 and 3  and capitalisation in lines 3 and 5 
+# changed the capitalisation in line 3 and line 5 to small letters 
