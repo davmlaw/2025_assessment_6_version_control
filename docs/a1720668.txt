@@ -1,6 +1,10 @@
 ## [unreleased]
 ### Changed
 
+Corrected uppercase words (FIRM, PARTY, AND) to lowercase in `data/a1720668.txt` (fixes #2) - low-severity bug
+
+### Changed
+
 Removed placeholder string `XXXXXXX` from `data/a1720668.txt`. Fixes #1 - high-severity bug.
 
 ### Added
