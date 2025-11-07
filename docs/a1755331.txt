@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- Removed the XXXXXXX artefacts three times from the first two sentences of data file
