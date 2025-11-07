@@ -1,4 +1,7 @@
 ## [unreleased]
+### Changed
+
+Removed placeholder string `XXXXXXX` from `data/a1720668.txt`. Fixes #1 - high-severity bug.
 
 ### Added
 
