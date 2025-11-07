@@ -9,3 +9,6 @@
 ### Added
 
 - Initial commit
+
+### Changed
+##  - Removed XXXXXXX insertion in data/a1975156.txt -> Issue:(#150)
