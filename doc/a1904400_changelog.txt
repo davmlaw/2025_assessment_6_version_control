@@ -1,0 +1,2 @@
+CHANGED: Removed high-severity XXXXXXX insertions from data/a1904400.txt (#195)
+CHANGED: Corrected low-severity UPPERCASE words in data/a1904400.txt (#196)
