@@ -12,3 +12,6 @@
 
 ### Changed
 ##  - Removed XXXXXXX insertion in data/a1975156.txt -> Issue:(#150)
+
+### Changed
+## - Fix for incorrect capitalisation in lines 1 and 3 of data/a1975156.txt (Issue #151)
