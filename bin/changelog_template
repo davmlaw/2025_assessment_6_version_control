@@ -13,3 +13,4 @@
 ### FIXED
 
 - Fixed high-severity XXXXXXX placeholder bug in data/a1974970.txt. Addresses issue #164.
+- Corrected inconsistent casing of words(UPPERCASE to lowercase) in data/a1974970.txt. Addresses issue #165.
