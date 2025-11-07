@@ -9,3 +9,7 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- Remove 'XXXXXXX' from line 3 and line 7 of the file a1879968.txt
