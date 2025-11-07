@@ -13,3 +13,4 @@
 ### Changed
 
 - Remove 'XXXXXXX' from line 3 and line 7 of the file a1879968.txt
+- Replace the UPPERCASE words to lowercase words in line 3 of file a1879968.txt
