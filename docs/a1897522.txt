@@ -9,3 +9,5 @@
 ### Added
 
 - Initial commit
+CHANGED: Removed high severity XXXXXXX tokens from data/a1897522.txt (Issue: a3438252c164ca49d4207ad8ca8b1d7dd2b655be)
+
