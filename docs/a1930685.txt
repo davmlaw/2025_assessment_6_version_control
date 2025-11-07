@@ -9,3 +9,4 @@
 ### Changed
 
 - Removed XXXXXXX insertion from data/a1930685.txt (high severity issue fix), issue#160.
+- Removed the UPPERCASE from data/a1930685.txt (low severity issue#161)
