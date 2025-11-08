@@ -8,6 +8,10 @@
 
 - [Remove high severity issue XXXXXXX insertions from data/a1894721.txt](https://github.com/davmlaw/2025_assessment_6_version_control/issues/207) - corrected lines 3, 9, and 15
 
+### Changed
+
+- [Case sensitivity inconsistencies in data/a1894721.txt](https://github.com/davmlaw/2025_assessment_6_version_control/issues/208) - normalized BELIEVE/DEBATE/PERHAPS to lowercase
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
