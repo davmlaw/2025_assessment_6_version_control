@@ -13,3 +13,7 @@
 ### Changed
 
 - Removed high severity XXXXXXX insertion from data/a1819179.txt ([#211](https://github.com/davmlaw/2025_assessment_6_version_control/issues/211))
+
+### Changed
+
+- Fixed low severity UPPERCASE words in data/a1819179.txt ([#212](https://github.com/davmlaw/2025_assessment_6_version_control/issues/212))
