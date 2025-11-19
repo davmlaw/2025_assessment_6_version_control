@@ -1,5 +1,11 @@
 ## [unreleased]
 
+### Changed
+- Fixed unintended UPPERCASE text in line 1 of data/a1887315.txt (see issue #28)
+
+### Changed 
+- Fixed high severity `XXXXXXX` placeholder text in data/a1887315.txt (see issue #27)
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
